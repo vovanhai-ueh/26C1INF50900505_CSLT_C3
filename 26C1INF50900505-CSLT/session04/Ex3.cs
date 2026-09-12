@@ -6,7 +6,7 @@ namespace _26C1INF50900505_CSLT.session04
 {
     internal class Ex3
     {
-        public static void Main(string[] args)
+        public static void Main1s(string[] args)
         {
             read_number_v2();
         }

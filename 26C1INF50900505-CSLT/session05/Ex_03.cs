@@ -5,7 +5,7 @@ using System.Text;
 namespace _26C1INF50900505_CSLT.session05 {
     internal class Ex_03 {
 
-        public static void Main(string[] args) {
+        public static void Main3333(string[] args) {
             Console.OutputEncoding = Encoding.UTF8;
             Console.WriteLine("""
                                 ________  .__                 ________                       

@@ -51,7 +51,7 @@ namespace _26C1INF50900505_CSLT.session06.exs
             }
         }
 
-        public static void Main(string[] args)
+        public static void Main233(string[] args)
         {
             /*Console.Write("Nhap 1 so can kiem tra: ");
             int so = int.Parse(Console.ReadLine());

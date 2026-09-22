@@ -8,7 +8,7 @@ namespace _26C1INF50900505_CSLT.session07
     {
 
         
-        public static void Main(string[] args)
+        public static void Main333(string[] args)
         {
             /* int[] mang;//mang-->null ~declaration
              mang = new int[2]; //~ instantiation (memory allocation)
@@ -108,7 +108,7 @@ namespace _26C1INF50900505_CSLT.session07
                     Console.Write($"{v}, ");
         }
 
-        private static bool IsPrime(int v)
+        public static bool IsPrime(int v)
         {
             if (v < 2) return false;
             for (int i = 2; i <= v / 2; i++)

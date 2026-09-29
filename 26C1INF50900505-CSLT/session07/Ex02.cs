@@ -6,7 +6,7 @@ namespace _26C1INF50900505_CSLT.session07
 {
     internal class Ex02
     {
-        public static void Main(string[] args)
+        public static void Main3233(string[] args)
         {
 
 

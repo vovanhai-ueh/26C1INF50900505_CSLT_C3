@@ -6,7 +6,7 @@ namespace _26C1INF50900505_CSLT.session08
 {
     internal class TestArray
     {
-        public static void Main(string[] args)
+        public static void Maixn(string[] args)
         {
             int[] a = { 5, 4, 3, 7, 2, 9 };
             Array.Sort(a);

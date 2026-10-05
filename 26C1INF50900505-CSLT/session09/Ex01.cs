@@ -8,7 +8,7 @@ namespace _26C1INF50900505_CSLT.session09
 {
     internal class Ex01
     {
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             /*string s = "sequential";
             Console.WriteLine(s);
